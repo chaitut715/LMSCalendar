@@ -1,2 +1,2 @@
 # LMSCalendar
-This is android mobile which syncs sakai course events into google calendar.
+This is android mobile app which syncs sakai course events into google calendar.
